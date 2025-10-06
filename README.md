@@ -232,9 +232,6 @@ All tasks support environment variable configuration:
 ```bash
 # Required for LLM features
 export GOOGLE_API_KEY="your-api-key-here"
-
-# Default value (for reference):
-# GOOGLE_API_KEY="AIzaSyDROlweOncKwmyFx3Rp8WUbBzJMuNoiP_A"
 ```
 
 ## License
