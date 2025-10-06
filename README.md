@@ -1,6 +1,6 @@
 # Agent Practice - Multi-Agent Systems
 
-This project contains 5 practical tasks demonstrating multi-agent systems using the AGNTCY ACP (Agent Connect Protocol) framework with Google Gemini.
+This project contains 5 practical tasks demonstrating multi-agent systems using industry-standard frameworks with Google Gemini.
 
 ## Agent Framework Overview
 
