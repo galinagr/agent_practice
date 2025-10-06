@@ -9,7 +9,7 @@ from langgraph.graph import StateGraph, END, START
 import os
 
 # Set up OpenAI (optional)
-os.environ["OPENAI_API_KEY"] = "your-api-key-here"
+os.environ["OPENAI_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 # Define workflow state - this persists across all nodes
 class SupportWorkflowState(TypedDict):
